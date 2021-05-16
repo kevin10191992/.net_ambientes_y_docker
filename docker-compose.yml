@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  apiserializer:
+    image: ${DOCKER_REGISTRY-}apiserializer
+    build:
+      context: .
+      dockerfile: ApiSerializer/Dockerfile
+    environment:
+    - ASPNETCORE_ENVIRONMENT = PRD
