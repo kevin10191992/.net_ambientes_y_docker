@@ -59,3 +59,4 @@ C:\Users\kperez\Desktop\Ejemplos\ApiSerializer\ApiSerializer\obj\Debug\net5.0\Ap
 C:\Users\kperez\Desktop\Ejemplos\ApiSerializer\ApiSerializer\obj\Debug\net5.0\ref\ApiSerializer.dll
 C:\Users\kperez\Desktop\Ejemplos\ApiSerializer\ApiSerializer\obj\Debug\net5.0\ApiSerializer.pdb
 C:\Users\kperez\Desktop\Ejemplos\ApiSerializer\ApiSerializer\obj\Debug\net5.0\ApiSerializer.genruntimeconfig.cache
+C:\Users\kperez\Desktop\Ejemplos\ApiSerializer\ApiSerializer\bin\Debug\net5.0\appsettings.QA.json
